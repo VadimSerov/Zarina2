@@ -1,0 +1,1 @@
+runas /user:a.i.maslenko-t2@utmn.ru %1

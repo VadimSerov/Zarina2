@@ -1,0 +1,1 @@
+, {"key": "Ala", "name": "Аланин", "ch_form": "C3H7NO2", "weight": 89.0935}
